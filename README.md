@@ -1,3 +1,12 @@
+
+# A Sample Code As Requested
+
+This is a small part of the library that includes helper methods.
+
+
+## CODE
+
+```javascript
 # sampleCode
 This is a sample of the library that includes helper methods for Javascript
 
@@ -417,3 +426,8 @@ Element.prototype.findParentBySelector = function (parentClass) {
   }
   return false
 }
+
+```
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
